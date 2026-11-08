@@ -1,0 +1,182 @@
+[
+  {
+    "supplierId": "SUP-001",
+    "supplierName": "Industrial Supplier 1",
+    "supplierCode": "ISC-001",
+    "country": "India",
+    "contactEmail": "supplier1@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-002",
+    "supplierName": "Industrial Supplier 2",
+    "supplierCode": "ISC-002",
+    "country": "India",
+    "contactEmail": "supplier2@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-003",
+    "supplierName": "Industrial Supplier 3",
+    "supplierCode": "ISC-003",
+    "country": "India",
+    "contactEmail": "supplier3@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-004",
+    "supplierName": "Industrial Supplier 4",
+    "supplierCode": "ISC-004",
+    "country": "India",
+    "contactEmail": "supplier4@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-005",
+    "supplierName": "Industrial Supplier 5",
+    "supplierCode": "ISC-005",
+    "country": "India",
+    "contactEmail": "supplier5@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-006",
+    "supplierName": "Industrial Supplier 6",
+    "supplierCode": "ISC-006",
+    "country": "India",
+    "contactEmail": "supplier6@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-007",
+    "supplierName": "Industrial Supplier 7",
+    "supplierCode": "ISC-007",
+    "country": "India",
+    "contactEmail": "supplier7@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-008",
+    "supplierName": "Industrial Supplier 8",
+    "supplierCode": "ISC-008",
+    "country": "India",
+    "contactEmail": "supplier8@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-009",
+    "supplierName": "Industrial Supplier 9",
+    "supplierCode": "ISC-009",
+    "country": "India",
+    "contactEmail": "supplier9@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-010",
+    "supplierName": "Industrial Supplier 10",
+    "supplierCode": "ISC-010",
+    "country": "India",
+    "contactEmail": "supplier10@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-011",
+    "supplierName": "Industrial Supplier 11",
+    "supplierCode": "ISC-011",
+    "country": "India",
+    "contactEmail": "supplier11@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-012",
+    "supplierName": "Industrial Supplier 12",
+    "supplierCode": "ISC-012",
+    "country": "India",
+    "contactEmail": "supplier12@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-013",
+    "supplierName": "Industrial Supplier 13",
+    "supplierCode": "ISC-013",
+    "country": "India",
+    "contactEmail": "supplier13@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-014",
+    "supplierName": "Industrial Supplier 14",
+    "supplierCode": "ISC-014",
+    "country": "India",
+    "contactEmail": "supplier14@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-015",
+    "supplierName": "Industrial Supplier 15",
+    "supplierCode": "ISC-015",
+    "country": "India",
+    "contactEmail": "supplier15@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-016",
+    "supplierName": "Industrial Supplier 16",
+    "supplierCode": "ISC-016",
+    "country": "India",
+    "contactEmail": "supplier16@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-017",
+    "supplierName": "Industrial Supplier 17",
+    "supplierCode": "ISC-017",
+    "country": "India",
+    "contactEmail": "supplier17@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-018",
+    "supplierName": "Industrial Supplier 18",
+    "supplierCode": "ISC-018",
+    "country": "India",
+    "contactEmail": "supplier18@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-019",
+    "supplierName": "Industrial Supplier 19",
+    "supplierCode": "ISC-019",
+    "country": "India",
+    "contactEmail": "supplier19@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "supplierId": "SUP-020",
+    "supplierName": "Industrial Supplier 20",
+    "supplierCode": "ISC-020",
+    "country": "India",
+    "contactEmail": "supplier20@example.com",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  }
+]

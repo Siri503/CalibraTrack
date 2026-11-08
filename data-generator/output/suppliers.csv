@@ -1,0 +1,21 @@
+supplierId,supplierName,supplierCode,country,contactEmail,status,createdAt
+SUP-001,Industrial Supplier 1,ISC-001,India,supplier1@example.com,Active,2026-01-01
+SUP-002,Industrial Supplier 2,ISC-002,India,supplier2@example.com,Active,2026-01-01
+SUP-003,Industrial Supplier 3,ISC-003,India,supplier3@example.com,Active,2026-01-01
+SUP-004,Industrial Supplier 4,ISC-004,India,supplier4@example.com,Active,2026-01-01
+SUP-005,Industrial Supplier 5,ISC-005,India,supplier5@example.com,Active,2026-01-01
+SUP-006,Industrial Supplier 6,ISC-006,India,supplier6@example.com,Active,2026-01-01
+SUP-007,Industrial Supplier 7,ISC-007,India,supplier7@example.com,Active,2026-01-01
+SUP-008,Industrial Supplier 8,ISC-008,India,supplier8@example.com,Active,2026-01-01
+SUP-009,Industrial Supplier 9,ISC-009,India,supplier9@example.com,Active,2026-01-01
+SUP-010,Industrial Supplier 10,ISC-010,India,supplier10@example.com,Active,2026-01-01
+SUP-011,Industrial Supplier 11,ISC-011,India,supplier11@example.com,Active,2026-01-01
+SUP-012,Industrial Supplier 12,ISC-012,India,supplier12@example.com,Active,2026-01-01
+SUP-013,Industrial Supplier 13,ISC-013,India,supplier13@example.com,Active,2026-01-01
+SUP-014,Industrial Supplier 14,ISC-014,India,supplier14@example.com,Active,2026-01-01
+SUP-015,Industrial Supplier 15,ISC-015,India,supplier15@example.com,Active,2026-01-01
+SUP-016,Industrial Supplier 16,ISC-016,India,supplier16@example.com,Active,2026-01-01
+SUP-017,Industrial Supplier 17,ISC-017,India,supplier17@example.com,Active,2026-01-01
+SUP-018,Industrial Supplier 18,ISC-018,India,supplier18@example.com,Active,2026-01-01
+SUP-019,Industrial Supplier 19,ISC-019,India,supplier19@example.com,Active,2026-01-01
+SUP-020,Industrial Supplier 20,ISC-020,India,supplier20@example.com,Active,2026-01-01

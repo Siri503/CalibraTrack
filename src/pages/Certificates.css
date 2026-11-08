@@ -1,0 +1,277 @@
+
+.certificates-page {
+  width: 100%;
+}
+
+.certificates-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+.certificates-header h1 {
+  font-size: 26px;
+  color: #172554;
+  margin: 0 0 8px;
+}
+
+.certificates-header p,
+.certificates-table-panel > p {
+  color: #64748b;
+  margin: 0;
+}
+
+.certificate-stats {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  margin-bottom: 25px;
+}
+
+.certificate-stat {
+  background: white;
+  padding: 22px;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+}
+
+.certificate-stat h2 {
+  font-size: 27px;
+  margin: 12px 0 5px;
+  color: #172554;
+}
+
+.certificate-stat p {
+  color: #64748b;
+  margin: 0;
+}
+
+.certificates-table-panel {
+  background: white;
+  padding: 24px;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+}
+
+.certificates-table-panel h2 {
+  color: #172554;
+  margin: 0 0 8px;
+  font-size: 20px;
+}
+
+.certificates-search {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 22px 0;
+  padding: 0 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 7px;
+  max-width: 450px;
+  color: #64748b;
+}
+
+.certificates-search input {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 12px 0;
+  font-size: 14px;
+}
+
+.certificates-table-scroll {
+  overflow-x: auto;
+}
+
+.certificates-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 850px;
+}
+
+.certificates-table th,
+.certificates-table td {
+  padding: 15px 12px;
+  text-align: left;
+  border-bottom: 1px solid #e2e8f0;
+  font-size: 13px;
+  white-space: nowrap;
+}
+
+.certificates-table th {
+  background: #f8fafc;
+  color: #475569;
+}
+
+.certificate-status {
+  background: #dcfce7;
+  color: #15803d;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.empty-certificates {
+  text-align: center !important;
+  color: #64748b;
+  padding: 35px !important;
+}
+
+.certificates-note {
+  color: #94a3b8;
+  font-size: 12px;
+  margin-top: 18px;
+}
+
+@media (max-width: 700px) {
+  .certificate-stats {
+    grid-template-columns: 1fr;
+  }
+}
+/* Certificate Preview Modal */
+
+.certificate-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  padding: 20px;
+}
+
+.certificate-modal {
+  width: 100%;
+  max-width: 750px;
+  max-height: 90vh;
+  overflow-y: auto;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+.certificate-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 25px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.certificate-modal-header h2 {
+  margin: 0;
+  color: #1e293b;
+}
+
+.certificate-close-btn {
+  border: none;
+  background: none;
+  font-size: 28px;
+  cursor: pointer;
+  color: #64748b;
+}
+
+.certificate-preview {
+  margin: 25px;
+  padding: 35px;
+  border: 2px solid #2563eb;
+  background: #ffffff;
+  color: #1e293b;
+}
+
+.certificate-title {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.certificate-title h1 {
+  color: #1d4ed8;
+  font-size: 23px;
+}
+
+.certificate-title p {
+  color: #64748b;
+  font-size: 13px;
+}
+
+.certificate-preview h3 {
+  margin: 25px 0 18px;
+}
+
+.certificate-preview p {
+  margin-bottom: 14px;
+  font-size: 14px;
+}
+
+.certificate-stamp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  margin: 30px auto;
+  color: #15803d;
+}
+
+.certificate-footer {
+  text-align: center;
+  color: #64748b;
+  border-top: 1px solid #e5e7eb;
+  padding-top: 18px;
+}
+
+.certificate-modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  padding: 15px 25px;
+  border-top: 1px solid #e5e7eb;
+}
+
+.certificate-modal-actions button {
+  padding: 10px 22px;
+  border: none;
+  border-radius: 6px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.certificate-modal-actions button:hover {
+  background: #1d4ed8;
+}
+.download-certificate-btn {
+  padding: 10px 22px;
+  border: none;
+  border-radius: 6px;
+  background: #16a34a;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  margin-right: 12px;
+}
+
+.download-certificate-btn:hover {
+  background: #15803d;
+}
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+
+  .certificate-preview,
+  .certificate-preview * {
+    visibility: visible;
+  }
+
+  .certificate-preview {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    border: 2px solid #2563eb;
+  }
+}

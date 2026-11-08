@@ -1,0 +1,57 @@
+[
+  {
+    "id": "PLAN-001",
+    "name": "Pressure Gauge Plan 1",
+    "instrumentTypeId": "TYPE-001",
+    "interval": 6,
+    "tolerance": 0.25,
+    "toleranceUnit": "bar",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": "2026-12-31",
+    "status": "Active"
+  },
+  {
+    "id": "PLAN-002",
+    "name": "Temperature Sensor Plan 2",
+    "instrumentTypeId": "TYPE-002",
+    "interval": 12,
+    "tolerance": 1.0,
+    "toleranceUnit": "Celsius",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": "2026-12-31",
+    "status": "Active"
+  },
+  {
+    "id": "PLAN-003",
+    "name": "Digital Multimeter Plan 3",
+    "instrumentTypeId": "TYPE-003",
+    "interval": 6,
+    "tolerance": 0.5,
+    "toleranceUnit": "Volt",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": "2026-12-31",
+    "status": "Active"
+  },
+  {
+    "id": "PLAN-004",
+    "name": "Flow Meter Plan 4",
+    "instrumentTypeId": "TYPE-004",
+    "interval": 12,
+    "tolerance": 0.75,
+    "toleranceUnit": "L/min",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": "2026-12-31",
+    "status": "Active"
+  },
+  {
+    "id": "PLAN-005",
+    "name": "Pressure Gauge Plan 5",
+    "instrumentTypeId": "TYPE-001",
+    "interval": 3,
+    "tolerance": 0.2,
+    "toleranceUnit": "bar",
+    "effectiveFrom": "2026-01-01",
+    "effectiveTo": "2026-12-31",
+    "status": "Active"
+  }
+]

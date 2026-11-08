@@ -1,0 +1,6 @@
+id,name,instrumentTypeId,interval,tolerance,toleranceUnit,effectiveFrom,effectiveTo,status
+PLAN-001,Pressure Gauge Plan 1,TYPE-001,6,0.25,bar,2026-01-01,2026-12-31,Active
+PLAN-002,Temperature Sensor Plan 2,TYPE-002,12,1.0,Celsius,2026-01-01,2026-12-31,Active
+PLAN-003,Digital Multimeter Plan 3,TYPE-003,6,0.5,Volt,2026-01-01,2026-12-31,Active
+PLAN-004,Flow Meter Plan 4,TYPE-004,12,0.75,L/min,2026-01-01,2026-12-31,Active
+PLAN-005,Pressure Gauge Plan 5,TYPE-001,3,0.2,bar,2026-01-01,2026-12-31,Active

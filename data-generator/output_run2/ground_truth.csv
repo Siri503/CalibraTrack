@@ -1,0 +1,6 @@
+anomalyId,entityType,entityId,issueType,expectedLabel,description
+GT-001,Asset,AST-000001,INCORRECT_DUE_DATE,Anomaly,Due date intentionally shifted by three days.
+GT-002,Certificate,CERT-CAL-AST-000001-2026-000003,CERTIFICATE_WRONG_ASSET,Anomaly,Certificate asset reference does not match its calibration event.
+GT-003,WorkOrder,WO-2026-000001,MISSING_IMPACT_ASSESSMENT,Anomaly,Impact assessment intentionally left incomplete.
+GT-004,CalibrationEvent,CAL-AST-002000-2026-000003,MISSING_CERTIFICATE,Anomaly,Passed calibration intentionally has no certificate.
+GT-005,ProductionUse,USE-AST-001996-20260917-000001,EXPIRED_USE_WITHOUT_EXCEPTION,Anomaly,Usage intentionally marked valid without a valid calibration or approved exception.

@@ -1,0 +1,40 @@
+
+.app-layout {
+  min-height: 100vh;
+}
+
+.main-content {
+  margin-left: 260px;
+  min-height: 100vh;
+  background-color: #f8fafc;
+}
+
+.page-content {
+  padding: 35px;
+}
+
+.page-content h1 {
+  color: #172554;
+  font-size: 28px;
+}
+
+.page-content p {
+  color: #64748b;
+}
+/* Login page layout */
+.auth-layout {
+  min-height: 100vh;
+}
+
+.auth-main-content {
+  width: 100%;
+  min-height: 100vh;
+  margin-left: 0;
+  background-color: #f8fafc;
+}
+
+.auth-page-content {
+  width: 100%;
+  min-height: 100vh;
+  padding: 0;
+}

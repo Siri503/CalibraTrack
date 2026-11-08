@@ -1,0 +1,42 @@
+[
+  {
+    "anomalyId": "GT-001",
+    "entityType": "Asset",
+    "entityId": "AST-000001",
+    "issueType": "INCORRECT_DUE_DATE",
+    "expectedLabel": "Anomaly",
+    "description": "Due date intentionally shifted by three days."
+  },
+  {
+    "anomalyId": "GT-002",
+    "entityType": "Certificate",
+    "entityId": "CERT-CAL-AST-000001-2026-000003",
+    "issueType": "CERTIFICATE_WRONG_ASSET",
+    "expectedLabel": "Anomaly",
+    "description": "Certificate asset reference does not match its calibration event."
+  },
+  {
+    "anomalyId": "GT-003",
+    "entityType": "WorkOrder",
+    "entityId": "WO-2026-000001",
+    "issueType": "MISSING_IMPACT_ASSESSMENT",
+    "expectedLabel": "Anomaly",
+    "description": "Impact assessment intentionally left incomplete."
+  },
+  {
+    "anomalyId": "GT-004",
+    "entityType": "CalibrationEvent",
+    "entityId": "CAL-AST-002000-2026-000003",
+    "issueType": "MISSING_CERTIFICATE",
+    "expectedLabel": "Anomaly",
+    "description": "Passed calibration intentionally has no certificate."
+  },
+  {
+    "anomalyId": "GT-005",
+    "entityType": "ProductionUse",
+    "entityId": "USE-AST-001996-20260917-000001",
+    "issueType": "EXPIRED_USE_WITHOUT_EXCEPTION",
+    "expectedLabel": "Anomaly",
+    "description": "Usage intentionally marked valid without a valid calibration or approved exception."
+  }
+]

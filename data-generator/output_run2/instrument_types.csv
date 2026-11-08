@@ -1,0 +1,5 @@
+id,name,description,measurementUnit,category,status,createdAt
+TYPE-001,Pressure Gauge,Measures pressure in industrial systems.,bar,Pressure,Active,2026-01-01
+TYPE-002,Temperature Sensor,Measures industrial temperature.,Celsius,Temperature,Active,2026-01-01
+TYPE-003,Digital Multimeter,Measures electrical parameters.,Volt,Electrical,Active,2026-01-01
+TYPE-004,Flow Meter,Measures liquid flow rate.,L/min,Flow,Active,2026-01-01

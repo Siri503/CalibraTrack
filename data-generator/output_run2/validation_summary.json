@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "seed": 20261022,
+  "dateRange": {
+    "start": "2026-01-01",
+    "end": "2026-12-31"
+  },
+  "validation": {
+    "status": "PASSED",
+    "checks": "primary-key uniqueness, foreign keys, calibration arithmetic, certificate links, work orders, extension references, required counts",
+    "labelledAnomalies": 5
+  },
+  "counts": {
+    "instrument_types": 4,
+    "calibration_plans": 5,
+    "suppliers": 20,
+    "assets": 2000,
+    "calibration_events": 5000,
+    "certificates": 2844,
+    "work_orders": 2155,
+    "production_usage": 100000,
+    "emergency_extensions": 100,
+    "alerts": 1988,
+    "audit_records": 10100
+  },
+  "groundTruthCount": 5
+}

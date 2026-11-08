@@ -1,0 +1,1002 @@
+[
+  {
+    "extensionId": "EXT-2026-000001",
+    "assetId": "AST-001821",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-08-17",
+    "effectiveFrom": "2026-08-17",
+    "effectiveTo": "2026-08-23",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000002",
+    "assetId": "AST-001389",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-05-19",
+    "effectiveFrom": "2026-05-19",
+    "effectiveTo": "2026-05-26",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000003",
+    "assetId": "AST-000844",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-04-20",
+    "effectiveFrom": "2026-04-20",
+    "effectiveTo": "2026-04-24",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000004",
+    "assetId": "AST-001535",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-06-15",
+    "effectiveFrom": "2026-06-15",
+    "effectiveTo": "2026-06-21",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000005",
+    "assetId": "AST-000004",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-02-19",
+    "effectiveFrom": "2026-02-19",
+    "effectiveTo": "2026-02-22",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000006",
+    "assetId": "AST-000290",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-03-03",
+    "effectiveFrom": "2026-03-03",
+    "effectiveTo": "2026-03-04",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000007",
+    "assetId": "AST-000832",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-11-16",
+    "effectiveFrom": "2026-11-16",
+    "effectiveTo": "2026-11-18",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000008",
+    "assetId": "AST-001944",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-11-16",
+    "effectiveFrom": "2026-11-16",
+    "effectiveTo": "2026-11-21",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000009",
+    "assetId": "AST-000090",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-10-14",
+    "effectiveFrom": "2026-10-14",
+    "effectiveTo": "2026-10-20",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000010",
+    "assetId": "AST-000336",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-05-25",
+    "effectiveFrom": "2026-05-25",
+    "effectiveTo": "2026-06-01",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000011",
+    "assetId": "AST-001665",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-03-22",
+    "effectiveFrom": "2026-03-22",
+    "effectiveTo": "2026-03-24",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000012",
+    "assetId": "AST-000398",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-09-27",
+    "effectiveFrom": "2026-09-27",
+    "effectiveTo": "2026-10-02",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000013",
+    "assetId": "AST-000682",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-09-12",
+    "effectiveFrom": "2026-09-12",
+    "effectiveTo": "2026-09-18",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000014",
+    "assetId": "AST-000289",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-09-22",
+    "effectiveFrom": "2026-09-22",
+    "effectiveTo": "2026-09-29",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000015",
+    "assetId": "AST-001423",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-10-23",
+    "effectiveFrom": "2026-10-23",
+    "effectiveTo": "2026-10-29",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000016",
+    "assetId": "AST-001097",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-07-14",
+    "effectiveFrom": "2026-07-14",
+    "effectiveTo": "2026-07-17",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000017",
+    "assetId": "AST-000938",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-10-17",
+    "effectiveFrom": "2026-10-17",
+    "effectiveTo": "2026-10-20",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000018",
+    "assetId": "AST-001932",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-02-06",
+    "effectiveFrom": "2026-02-06",
+    "effectiveTo": "2026-02-12",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000019",
+    "assetId": "AST-000760",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-02-23",
+    "effectiveFrom": "2026-02-23",
+    "effectiveTo": "2026-02-27",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000020",
+    "assetId": "AST-000566",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-08-19",
+    "effectiveFrom": "2026-08-19",
+    "effectiveTo": "2026-08-22",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000021",
+    "assetId": "AST-001355",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-09-07",
+    "effectiveFrom": "2026-09-07",
+    "effectiveTo": "2026-09-13",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000022",
+    "assetId": "AST-001358",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-10-27",
+    "effectiveFrom": "2026-10-27",
+    "effectiveTo": "2026-10-31",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000023",
+    "assetId": "AST-000795",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-11-26",
+    "effectiveFrom": "2026-11-26",
+    "effectiveTo": "2026-12-02",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000024",
+    "assetId": "AST-001761",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-08-16",
+    "effectiveFrom": "2026-08-16",
+    "effectiveTo": "2026-08-18",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000025",
+    "assetId": "AST-000737",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-11-30",
+    "effectiveFrom": "2026-11-30",
+    "effectiveTo": "2026-12-05",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000026",
+    "assetId": "AST-000481",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-02-23",
+    "effectiveFrom": "2026-02-23",
+    "effectiveTo": "2026-02-25",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000027",
+    "assetId": "AST-001523",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-08-23",
+    "effectiveFrom": "2026-08-23",
+    "effectiveTo": "2026-08-28",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000028",
+    "assetId": "AST-001270",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-07-16",
+    "effectiveFrom": "2026-07-16",
+    "effectiveTo": "2026-07-17",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000029",
+    "assetId": "AST-000837",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-09-11",
+    "effectiveFrom": "2026-09-11",
+    "effectiveTo": "2026-09-14",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000030",
+    "assetId": "AST-001587",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-07-20",
+    "effectiveFrom": "2026-07-20",
+    "effectiveTo": "2026-07-27",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000031",
+    "assetId": "AST-001076",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-02-20",
+    "effectiveFrom": "2026-02-20",
+    "effectiveTo": "2026-02-27",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000032",
+    "assetId": "AST-001370",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-01-26",
+    "effectiveFrom": "2026-01-26",
+    "effectiveTo": "2026-01-29",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000033",
+    "assetId": "AST-000850",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-09-22",
+    "effectiveFrom": "2026-09-22",
+    "effectiveTo": "2026-09-26",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000034",
+    "assetId": "AST-000740",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-09-06",
+    "effectiveFrom": "2026-09-06",
+    "effectiveTo": "2026-09-07",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000035",
+    "assetId": "AST-000127",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-08-07",
+    "effectiveFrom": "2026-08-07",
+    "effectiveTo": "2026-08-12",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000036",
+    "assetId": "AST-001710",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-03-01",
+    "effectiveFrom": "2026-03-01",
+    "effectiveTo": "2026-03-05",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000037",
+    "assetId": "AST-001574",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-06-11",
+    "effectiveFrom": "2026-06-11",
+    "effectiveTo": "2026-06-14",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000038",
+    "assetId": "AST-000242",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-07-06",
+    "effectiveFrom": "2026-07-06",
+    "effectiveTo": "2026-07-08",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000039",
+    "assetId": "AST-001448",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-03-29",
+    "effectiveFrom": "2026-03-29",
+    "effectiveTo": "2026-04-05",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000040",
+    "assetId": "AST-001074",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-08-16",
+    "effectiveFrom": "2026-08-16",
+    "effectiveTo": "2026-08-17",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000041",
+    "assetId": "AST-001298",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-09-28",
+    "effectiveFrom": "2026-09-28",
+    "effectiveTo": "2026-10-05",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000042",
+    "assetId": "AST-000660",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-07-27",
+    "effectiveFrom": "2026-07-27",
+    "effectiveTo": "2026-08-01",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000043",
+    "assetId": "AST-000872",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-02-26",
+    "effectiveFrom": "2026-02-26",
+    "effectiveTo": "2026-03-04",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000044",
+    "assetId": "AST-001198",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-03-19",
+    "effectiveFrom": "2026-03-19",
+    "effectiveTo": "2026-03-23",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000045",
+    "assetId": "AST-000352",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-12-07",
+    "effectiveFrom": "2026-12-07",
+    "effectiveTo": "2026-12-13",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000046",
+    "assetId": "AST-001924",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-07-18",
+    "effectiveFrom": "2026-07-18",
+    "effectiveTo": "2026-07-21",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000047",
+    "assetId": "AST-000168",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-09-06",
+    "effectiveFrom": "2026-09-06",
+    "effectiveTo": "2026-09-07",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000048",
+    "assetId": "AST-001763",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-07-31",
+    "effectiveFrom": "2026-07-31",
+    "effectiveTo": "2026-08-01",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000049",
+    "assetId": "AST-001088",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-02-18",
+    "effectiveFrom": "2026-02-18",
+    "effectiveTo": "2026-02-23",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000050",
+    "assetId": "AST-000833",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-07-22",
+    "effectiveFrom": "2026-07-22",
+    "effectiveTo": "2026-07-27",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000051",
+    "assetId": "AST-001807",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-01-31",
+    "effectiveFrom": "2026-01-31",
+    "effectiveTo": "2026-02-01",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000052",
+    "assetId": "AST-001417",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-04-10",
+    "effectiveFrom": "2026-04-10",
+    "effectiveTo": "2026-04-16",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000053",
+    "assetId": "AST-000407",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-09-14",
+    "effectiveFrom": "2026-09-14",
+    "effectiveTo": "2026-09-19",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000054",
+    "assetId": "AST-001675",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-04-04",
+    "effectiveFrom": "2026-04-04",
+    "effectiveTo": "2026-04-07",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000055",
+    "assetId": "AST-000321",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-04-24",
+    "effectiveFrom": "2026-04-24",
+    "effectiveTo": "2026-04-27",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000056",
+    "assetId": "AST-001115",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-11-08",
+    "effectiveFrom": "2026-11-08",
+    "effectiveTo": "2026-11-10",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000057",
+    "assetId": "AST-001977",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-08-04",
+    "effectiveFrom": "2026-08-04",
+    "effectiveTo": "2026-08-06",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000058",
+    "assetId": "AST-001436",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-01-17",
+    "effectiveFrom": "2026-01-17",
+    "effectiveTo": "2026-01-20",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000059",
+    "assetId": "AST-001980",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-03-16",
+    "effectiveFrom": "2026-03-16",
+    "effectiveTo": "2026-03-20",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000060",
+    "assetId": "AST-000123",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-04-21",
+    "effectiveFrom": "2026-04-21",
+    "effectiveTo": "2026-04-27",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000061",
+    "assetId": "AST-000858",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-08-10",
+    "effectiveFrom": "2026-08-10",
+    "effectiveTo": "2026-08-15",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000062",
+    "assetId": "AST-001453",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-05-15",
+    "effectiveFrom": "2026-05-15",
+    "effectiveTo": "2026-05-18",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000063",
+    "assetId": "AST-000188",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-11-15",
+    "effectiveFrom": "2026-11-15",
+    "effectiveTo": "2026-11-22",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000064",
+    "assetId": "AST-001805",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-07-16",
+    "effectiveFrom": "2026-07-16",
+    "effectiveTo": "2026-07-18",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000065",
+    "assetId": "AST-000698",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-02-11",
+    "effectiveFrom": "2026-02-11",
+    "effectiveTo": "2026-02-16",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000066",
+    "assetId": "AST-001913",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-12-14",
+    "effectiveFrom": "2026-12-14",
+    "effectiveTo": "2026-12-17",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000067",
+    "assetId": "AST-001215",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-03-12",
+    "effectiveFrom": "2026-03-12",
+    "effectiveTo": "2026-03-14",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000068",
+    "assetId": "AST-001697",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-09-25",
+    "effectiveFrom": "2026-09-25",
+    "effectiveTo": "2026-09-29",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000069",
+    "assetId": "AST-001336",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-10-05",
+    "effectiveFrom": "2026-10-05",
+    "effectiveTo": "2026-10-11",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000070",
+    "assetId": "AST-000527",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-11-04",
+    "effectiveFrom": "2026-11-04",
+    "effectiveTo": "2026-11-11",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000071",
+    "assetId": "AST-001286",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-04-13",
+    "effectiveFrom": "2026-04-13",
+    "effectiveTo": "2026-04-16",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000072",
+    "assetId": "AST-000099",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-02-25",
+    "effectiveFrom": "2026-02-25",
+    "effectiveTo": "2026-03-03",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000073",
+    "assetId": "AST-000767",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-10-11",
+    "effectiveFrom": "2026-10-11",
+    "effectiveTo": "2026-10-12",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000074",
+    "assetId": "AST-000256",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-03-31",
+    "effectiveFrom": "2026-03-31",
+    "effectiveTo": "2026-04-02",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000075",
+    "assetId": "AST-001667",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-11-11",
+    "effectiveFrom": "2026-11-11",
+    "effectiveTo": "2026-11-18",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000076",
+    "assetId": "AST-001904",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-06-10",
+    "effectiveFrom": "2026-06-10",
+    "effectiveTo": "2026-06-11",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000077",
+    "assetId": "AST-000161",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-08-24",
+    "effectiveFrom": "2026-08-24",
+    "effectiveTo": "2026-08-27",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000078",
+    "assetId": "AST-000609",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-03-06",
+    "effectiveFrom": "2026-03-06",
+    "effectiveTo": "2026-03-13",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000079",
+    "assetId": "AST-001886",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-01-09",
+    "effectiveFrom": "2026-01-09",
+    "effectiveTo": "2026-01-13",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000080",
+    "assetId": "AST-000480",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-02-23",
+    "effectiveFrom": "2026-02-23",
+    "effectiveTo": "2026-03-02",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000081",
+    "assetId": "AST-000806",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-02-13",
+    "effectiveFrom": "2026-02-13",
+    "effectiveTo": "2026-02-19",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000082",
+    "assetId": "AST-000391",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-01-07",
+    "effectiveFrom": "2026-01-07",
+    "effectiveTo": "2026-01-11",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000083",
+    "assetId": "AST-001823",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-04-28",
+    "effectiveFrom": "2026-04-28",
+    "effectiveTo": "2026-05-01",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000084",
+    "assetId": "AST-000600",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-07-13",
+    "effectiveFrom": "2026-07-13",
+    "effectiveTo": "2026-07-15",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000085",
+    "assetId": "AST-000047",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-05-24",
+    "effectiveFrom": "2026-05-24",
+    "effectiveTo": "2026-05-30",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000086",
+    "assetId": "AST-001473",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-08-22",
+    "effectiveFrom": "2026-08-22",
+    "effectiveTo": "2026-08-29",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000087",
+    "assetId": "AST-000964",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-11-24",
+    "effectiveFrom": "2026-11-24",
+    "effectiveTo": "2026-11-28",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000088",
+    "assetId": "AST-001047",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-12-31",
+    "effectiveFrom": "2026-12-31",
+    "effectiveTo": "2027-01-05",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000089",
+    "assetId": "AST-001140",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-01-12",
+    "effectiveFrom": "2026-01-12",
+    "effectiveTo": "2026-01-19",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000090",
+    "assetId": "AST-001682",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-05-19",
+    "effectiveFrom": "2026-05-19",
+    "effectiveTo": "2026-05-20",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000091",
+    "assetId": "AST-000951",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-10-03",
+    "effectiveFrom": "2026-10-03",
+    "effectiveTo": "2026-10-10",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000092",
+    "assetId": "AST-000724",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-03-03",
+    "effectiveFrom": "2026-03-03",
+    "effectiveTo": "2026-03-10",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000093",
+    "assetId": "AST-000251",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-04-06",
+    "effectiveFrom": "2026-04-06",
+    "effectiveTo": "2026-04-11",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000094",
+    "assetId": "AST-000992",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-10-09",
+    "effectiveFrom": "2026-10-09",
+    "effectiveTo": "2026-10-13",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000095",
+    "assetId": "AST-000582",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-07-19",
+    "effectiveFrom": "2026-07-19",
+    "effectiveTo": "2026-07-20",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000096",
+    "assetId": "AST-000198",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-07-10",
+    "effectiveFrom": "2026-07-10",
+    "effectiveTo": "2026-07-11",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000097",
+    "assetId": "AST-000803",
+    "approvedBy": "Maintenance Head",
+    "approvalDate": "2026-11-16",
+    "effectiveFrom": "2026-11-16",
+    "effectiveTo": "2026-11-23",
+    "justification": "Temporary operational exception",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000098",
+    "assetId": "AST-000114",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-12-17",
+    "effectiveFrom": "2026-12-17",
+    "effectiveTo": "2026-12-22",
+    "justification": "Urgent production requirement",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000099",
+    "assetId": "AST-000147",
+    "approvedBy": "Quality Manager",
+    "approvalDate": "2026-06-01",
+    "effectiveFrom": "2026-06-01",
+    "effectiveTo": "2026-06-07",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  },
+  {
+    "extensionId": "EXT-2026-000100",
+    "assetId": "AST-000826",
+    "approvedBy": "Plant Manager",
+    "approvalDate": "2026-07-03",
+    "effectiveFrom": "2026-07-03",
+    "effectiveTo": "2026-07-06",
+    "justification": "Replacement instrument unavailable",
+    "status": "Approved"
+  }
+]

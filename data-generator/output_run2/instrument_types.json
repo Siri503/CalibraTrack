@@ -1,0 +1,38 @@
+[
+  {
+    "id": "TYPE-001",
+    "name": "Pressure Gauge",
+    "description": "Measures pressure in industrial systems.",
+    "measurementUnit": "bar",
+    "category": "Pressure",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "id": "TYPE-002",
+    "name": "Temperature Sensor",
+    "description": "Measures industrial temperature.",
+    "measurementUnit": "Celsius",
+    "category": "Temperature",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "id": "TYPE-003",
+    "name": "Digital Multimeter",
+    "description": "Measures electrical parameters.",
+    "measurementUnit": "Volt",
+    "category": "Electrical",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  },
+  {
+    "id": "TYPE-004",
+    "name": "Flow Meter",
+    "description": "Measures liquid flow rate.",
+    "measurementUnit": "L/min",
+    "category": "Flow",
+    "status": "Active",
+    "createdAt": "2026-01-01"
+  }
+]
