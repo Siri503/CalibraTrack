@@ -4,6 +4,15 @@ CalibraTrack is a web-based Calibration Management System designed to help manuf
 
 The system provides centralized instrument tracking, calibration history, certificate management, production usage validation, alerts, and audit records.
 
+## AI-Assisted Development & Conversation
+
+ChatGPT was used as an AI development assistant throughout the CalibraTrack project for problem analysis, system design, implementation guidance, debugging, synthetic data generation, validation, and technical documentation.
+
+The development conversation provides additional context on the project's planning, technical decisions, and implementation process.
+
+**ChatGPT Development Conversation:**  
+[View CalibraTrack Development Conversation](https://chatgpt.com/share/6af06f1a-bd08-83ec-b16f-bf2bd5bf5b9e)
+
 ## 1. Key Features
 
 - **Dashboard:** View instrument statistics, calibration results, certificates, and work order summaries.
